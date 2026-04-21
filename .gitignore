@@ -3,3 +3,5 @@ node_modules/
 .DS_Store
 dist/
 build/
+MONGO_URI=your_new_connection_string
+PORT=5000
